@@ -14,7 +14,7 @@ import CoreSpotlight
  1 导入框架 CoreSpotlight
  2 在程序中注册方法 eg: test()
  3 在 AppDelegate 中实现监听方法 ，根据标识拿到具体的哪个实例 进行aciton 动作区分
- 4  
+ 4
  
  */
 class ViewController: UIViewController {

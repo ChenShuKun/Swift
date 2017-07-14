@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "iMessage Image Picker/ViewController.swift"
+            timestampString = "521697010.355093"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "120"
+            endingLineNumber = "120"
+            landmarkName = "imagePickerControllerDidCancel(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "iMessage_Image_Picker.ViewController.imagePickerControllerDidCancel (__ObjC.UIImagePickerController) -&gt; ()"
+                  moduleName = "iMessage Image Picker"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/chenshukun/develop/Swift/iMessage%20Image%20Picker/iMessage%20Image%20Picker/ViewController.swift"
+                  timestampString = "521697010.444684"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "120"
+                  endingLineNumber = "120"
+                  offsetFromSymbolStart = "188">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "iMessage_Image_Picker.ViewController.(imagePickerControllerDidCancel (__ObjC.UIImagePickerController) -&gt; ()).(closure #1)"
+                  moduleName = "iMessage Image Picker"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/chenshukun/develop/Swift/iMessage%20Image%20Picker/iMessage%20Image%20Picker/ViewController.swift"
+                  timestampString = "521697010.446155"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "122"
+                  endingLineNumber = "122"
+                  offsetFromSymbolStart = "12">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
