@@ -94,7 +94,7 @@ class ViewController: UIViewController,UIImagePickerControllerDelegate,UINavigat
         
         return allPhotos;
     }
-      
+    
     
     //MARK :--- method 1
     func buttonAction(btn:UIButton) {
